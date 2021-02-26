@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/liran/Documents/qv2ray/systemd/system'
+let g:netrw_dirhist_5='/home/liran/Documents/qv2ray/systemd'
+let g:netrw_dirhist_4='/home/liran/Documents/qv2ray'
+let g:netrw_dirhist_3='/home/liran/Documents'
+let g:netrw_dirhist_2='/home/liran/Downloads'
+let g:netrw_dirhist_1='/home/liran/.vim/vimrc'
