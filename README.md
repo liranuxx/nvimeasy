@@ -1,2 +1,2 @@
 # nvimeasy
-a easy vim/nvim config
+an easy vim/nvim config
